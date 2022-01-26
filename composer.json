@@ -1,0 +1,21 @@
+{
+    "name": "kodebagus/fare-calculator",
+    "description": "Simple and configurable fare calculator. Can be used for charging tollroad transaction for example.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kodebagus\\FareCalculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kodebagus",
+            "email": "kangtris351@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
